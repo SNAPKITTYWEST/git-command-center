@@ -1,0 +1,12 @@
+{
+  "name": "Git Command Center",
+  "short_name": "GitDOS",
+  "description": "Sovereign git intelligence — DOS terminal, BOB AI, WORM chain",
+  "start_url": "/app.html",
+  "display": "standalone",
+  "background_color": "#04040a",
+  "theme_color": "#ffd060",
+  "icons": [
+    { "src": "https://collectivekitty.com/favicon.ico", "sizes": "any", "type": "image/x-icon" }
+  ]
+}
